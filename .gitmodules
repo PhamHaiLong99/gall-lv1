@@ -1,0 +1,3 @@
+[submodule "proj_lv2"]
+	path = proj_lv2
+	url = git@github.com:PhamHaiLong99/proj_lv2.git
